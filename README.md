@@ -4,7 +4,9 @@
 
 A purpose-built Codex skill for creating startup pitch deck skeletons focused on fundraising narrative, slide sequencing, and slide layouts.
 
-Use it to turn messy startup context into a clear pitch deck structure for seed - B fundraising. Give it context and data, pair with your own design system skills, and then hand it to a presentation-generation tool such as PowerPoint, Google Slides, Canva, Paper, Gamma, etc.
+Use to turn messy context/thoughts into a clear pitch deck narrative structure for early stage (seed-B) fundraising. Give it context and data, pair with your own design system skills, and then hand it to a presentation-generation tool such as PowerPoint, Google Slides, Canva, Paper, Gamma, etc.
+
+<img width="1440" height="810" alt="06 AI" src="https://github.com/user-attachments/assets/78d97b8e-a672-4b1b-8ea8-77759ee01819" />
 
 ## Install
 
