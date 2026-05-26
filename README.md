@@ -2,7 +2,7 @@
 
 > "Storytelling is the most powerful way to put ideas into the world." — Robert McKee
 
-A purpose-built Codex skill for creating startup pitch deck skeletons focused on fundraising narrative, slide sequencing, and slide layouts.
+A purpose-built Codex skill for creating startup pitch deck skeletons focused on fundraising narrative, slide sequencing, and slide layouts. Trained on dozens of the best decks out there.
 
 Use to turn messy context/thoughts into a clear pitch deck narrative structure for early stage (seed-B) fundraising. Give it context and data, pair with your own design system skills, and then hand it to a presentation-generation tool such as PowerPoint, Google Slides, Canva, Paper, Gamma, etc.
 
