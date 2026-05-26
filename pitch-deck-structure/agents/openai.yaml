@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pitch Deck Structure"
+  short_description: "Structure investor pitch deck narratives"
+  default_prompt: "Use $pitch-deck-structure to create a pitch deck skeleton for a startup fundraising narrative."
