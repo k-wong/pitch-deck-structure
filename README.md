@@ -25,7 +25,3 @@ Use $pitch-deck-structure to create a pitch deck skeleton for a startup fundrais
 - `pitch-deck-structure/references/arcs.md`: narrative arcs by stage and company type
 - `pitch-deck-structure/references/slide-patterns.md`: slide purposes, sequencing, and appendix guidance
 - `pitch-deck-structure/references/layout-patterns.md`: layout and data-visualization patterns
-
-## Notes
-
-The skill uses anonymized, generalized pitch deck structure guidance. It does not include private deck examples, company-specific slide text, or proprietary metrics.
